@@ -3,7 +3,7 @@
 This project demonstrates how to implement an infinite scrolling feature in a React application. It allows you to fetch and display data from an API as the user scrolls down the page.
 
 ## Demo
-A live demo of the project can be found [here](https://www.example.com).
+A live demo of the project can be found [here](https://infinitescrolling-feature.netlify.app/).
 
 ## Features
 
