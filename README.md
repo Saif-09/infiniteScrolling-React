@@ -1,8 +1,12 @@
-# React + Vite
+# React Infinite Scrolling Feature
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates how to implement an infinite scrolling feature in a React application. It allows you to fetch and display data from an API as the user scrolls down the page.
 
-Currently, two official plugins are available:
+## Demo
+A live demo of the project can be found [here](https://www.example.com).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+1. Infinite scrolling to load more data as the user scrolls down.
+2. Data fetched from an API using Axios.
+3. Responsive card layout for displaying the fetched data.

@@ -13,4 +13,3 @@ const Card = ({cardData}) => {
 }
 
 export default Card
-// {body.substr(0, 150)}
