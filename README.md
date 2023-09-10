@@ -5,6 +5,8 @@ This project demonstrates how to implement an infinite scrolling feature in a Re
 ## Demo
 A live demo of the project can be found [here](https://infinitescrolling-feature.netlify.app/).
 
+## Read Blog [here](https://abeginner.hashnode.dev/infinite-scrolling-in-a-react-application)
+
 ## Features
 
 1. Infinite scrolling to load more data as the user scrolls down.
